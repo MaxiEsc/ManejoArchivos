@@ -1,0 +1,7 @@
+Agregamos información al archivo
+Se realiza ciertas pRuebas en el archivo
+Se realizar Pruebas en el mismo
+Se revisa el archivo con su extencion correspondiente
+Hay caracteres faltantes
+Caracteres especiales faltanes áééióúññññ
+Adios
